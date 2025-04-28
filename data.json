@@ -2,31 +2,33 @@
     {
         "id": 1,
         "name": "John Doe",
-        "Email": "sample@grc.com",
-        "Contact Number": "+1-202-555-0173",
-        "Address": {
-            "Address": "246",
-            "State": "Main St Anytown",
-            "Zip": "12345"
+        "email": "sample@grc.com",
+        "phone": "+1-202-555-0173",
+        "address": {
+            "city": "246",
+            "state": "Main St Anytown",
+            "zip": "12345"
             },
-        "Company": {
+        "company": {
+            "name": "Tech Expo",
             "position": "Software Engineer",
-            "Department": "Development Dept."
+            "department": "Development Dept."
             }
     },
     {
         "id": 2,
         "name": "Eric Jones",
-        "Email": "examplesample@grc.com",
-        "Contact Number": "+1-303-666-0284",
-        "Address": {
-            "Address": "357",
-            "State": "Main St AnyCity",
-            "Zip": "245810"
+        "email": "examplesample@grc.com",
+        "phone": "+1-303-666-0284",
+        "address": {
+            "city": "357",
+            "state": "Main St AnyCity",
+            "zip": "245810"
             },
-        "Company": {
+        "company": {
+            "name": "Tech Expo",
             "position": "Hardware Engineer",
-            "Department": "Maintenance Dept."
+            "department": "Maintenance Dept."
             }
     }
 ]
