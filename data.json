@@ -1,0 +1,44 @@
+[
+    {
+        "name": "John Doe",
+        "Contact Info": {
+            "Email": "sample@grc.com",
+            "Contact Number": "+1-202-555-0173"
+        },
+        "Adress": {
+            "Address": "123 Main St Anytown, CA , 12345" 
+        },
+        "Company": {
+            "Tech Solutions": "Software Engineer Development Dept."
+
+        }
+    },
+    {
+        "name": "John",
+        "Contact Info": {
+            "Email": "examplesample@grc.com",
+            "Contact Number": "+2-303-777-0284"
+        },
+        "Adress": {
+            "Address": "246 Main St Anycity, CA , 12345" 
+        },
+        "Company": {
+            "Tech Solutions": "Hardware Engineer Development Dept."
+
+        }
+    },
+    {
+        "name": "Jane",
+        "Contact Info": {
+            "Email": "examplesample1@grc.com",
+            "Contact Number": "+3-404-888-0395"
+        },
+        "Adress": {
+            "Address": "357 Main St Anycountry, CA , 12345" 
+        },
+        "Company": {
+            "Tech Solutions": "Application Engineer Development Dept."
+
+        }
+    }
+]
