@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "name": "John Doe",
-        "email": "sample@grc.com",
-        "phone": "+1-202-555-0173",
+        "name": "John Smith",
+        "email": "sample1@grc.com",
+        "phone": "+1-404-777-0384",
         "address": {
-            "city": "246",
-            "state": "Main St Anytown",
+            "city": "468",
+            "state": "Main St Anycountry",
             "zip": "12345"
             },
         "company": {
             "name": "Tech Expo",
-            "position": "Software Engineer",
-            "department": "Development Dept."
+            "position": "Application Engineer",
+            "department": "Maintenance Dept."
             }
     },
     {
@@ -22,7 +22,7 @@
         "phone": "+1-303-666-0284",
         "address": {
             "city": "357",
-            "state": "Main St AnyCity",
+            "state": "Main St Anycity",
             "zip": "245810"
             },
         "company": {
