@@ -5,34 +5,28 @@
         "Email": "sample@grc.com",
         "Contact Number": "+1-202-555-0173",
         "Address": {
-            "Address": "123 Main St Anytown, CA , 12345"
+            "Address": "246",
+            "State": "Main St Anytown",
+            "Zip": "12345"
             },
         "Company": {
-        "Tech Solutions": "Software Engineer Development Dept."
+            "position": "Software Engineer",
+            "Department": "Development Dept."
             }
     },
     {
         "id": 2,
-        "name": "John",
+        "name": "Eric Jones",
         "Email": "examplesample@grc.com",
-        "Contact Number": "+2-303-777-0284",
+        "Contact Number": "+1-303-666-0284",
         "Address": {
-            "Address": "246 Main St Anycity, CA , 12345"
+            "Address": "357",
+            "State": "Main St AnyCity",
+            "Zip": "245810"
             },
         "Company": {
-        "Tech Solutions": "Hardware Engineer Development Dept."
-            }
-    },
-    {
-        "id": 3,
-        "name": "Jane",
-        "Email": "examplesample1@grc.com",
-        "Contact Number": "+3-404-888-0395",
-        "Address": {
-            "Address": "357 Main St Anycountry, CA , 12345" 
-            },
-        "Company": {
-            "Tech Solutions": "Application Engineer Development Dept."
+            "position": "Hardware Engineer",
+            "Department": "Maintenance Dept."
             }
     }
 ]
